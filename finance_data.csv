@@ -1,0 +1,11 @@
+transaction_date,transaction_amount,transaction_type,details
+10-01-2025,2000,Income,Consulting Fee
+11-01-2025,300,Expense,Groceries
+12-01-2025,150,Expense,Transportation
+13-01-2025,500,Income,Stock Dividends
+14-01-2025,250,Expense,Electricity Bill
+15-01-2025,800,Income,Part-time Job
+16-01-2025,120,Expense,Gas
+17-01-2025,1000,Income,Freelance Project
+18-01-2025,90,Expense,Books
+19-01-2025,400,Expense,Rent
